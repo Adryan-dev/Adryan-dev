@@ -1,8 +1,8 @@
 ## Oi! Eu sou o Adryan Buonincontro
  <div>
   <a href="https://github.com/Adryan-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adryan-dev&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adryan-dev&layout=compact&langs_count=16&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adryan-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adryan-dev&layout=compact&langs_count=16&theme=radical"/>
 <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Adryan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
