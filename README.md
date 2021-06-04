@@ -1,4 +1,4 @@
-## Oi! Eu sou o Adryan Buonincontro
+## Olá! Meu nome é Adryan Buonincontro
  <div>
   <a href="https://github.com/Adryan-dev">
   <img height="180em" style="display: inline-block" src="https://github-readme-stats.vercel.app/api?username=Adryan-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
