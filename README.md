@@ -5,7 +5,6 @@
 <div>
   <a href="https://github.com/Adryan-dev">
   <img height="180em" width='400px' style="display: inline_block;border:none;" src="https://github-readme-stats.vercel.app/api?username=Adryan-dev&theme=dark"/>
-  <img height="180em" width='400px' style="display: inline_block;border:none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adryan-dev&layout=compact&langs_count=7&theme=dark"/>
 <div>
 
 <br>
