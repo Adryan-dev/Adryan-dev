@@ -25,6 +25,7 @@
 </div>
 
 <br>
+<hr>
 
  ### Latest Blog Posts
   
