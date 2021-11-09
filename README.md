@@ -8,8 +8,8 @@
 <div>
 
 <br>
-
-### Technologies that were used in the projects:
+  
+### Technologies I use in my projects:
 
 <div>
 
